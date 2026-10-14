@@ -33,7 +33,7 @@ This project builds a python script to uncover bike share usage patterns in thre
 
 ## Credits
 
-Thanks to [Motivate][https://www.motivateco.com/] for sharing data source files
+Thanks to [Motivate](https://www.motivateco.com/) for sharing data source files
 
 ## Date created
 
