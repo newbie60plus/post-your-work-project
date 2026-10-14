@@ -97,7 +97,7 @@ def time_stats(df, month, day):
 
     # TO DO: display the most common day of week
     if day == 'all':
-        df['day_of_week'] = df['Start Time'].dt.weekday_name
+        df['day_of_week'] = df['Start Time'].dt.strftime("%A")
         ## find the most popular weekday
         popular_wd = df['day_of_week'].mode()[0]
     
