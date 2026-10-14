@@ -3,25 +3,38 @@
 
 # Project Title
 
-Describe what your project is about and what it does
+This project builds a python script to uncover bike share usage patterns in three large cities
+* Chicago
+* New York City
+* Washington
 
 ## Information about how to use your project
 
-This could include:
+### Installation
+* clone repository and install python script bikeshare.py
 
-- Step-by-step instructions for installing or setting up your project.
-- Any software dependencies that need to be installed.
-- Instructions and examples for how to use your project, including any helpful code snippets.
-- Common issues and troubleshooting tips
+### Datafile dependicies to be located in script folder
+* Chicago.csv
+* new_york_city.csv
+* Washington.csv
+
+### Usage
+* Run python bikeshare.py
+* Follow guidance in script and fill out requested information like
+- which city to analyze
+- which month
+- which weekday
 
 ## Contribution guidelines
 
-If you welcome contributions, provide guidelines on how others can contribute to your project.
+* Fork this repository
+* Request datafiles
+* Create pull requests when updates are available
 
 ## Credits
 
-It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
+Thanks to [Motivate][https://www.motivateco.com/] for sharing data source files
 
 ## Date created
 
-Include the date you created this project and README file.
+2026-10-14
